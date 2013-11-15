@@ -2,7 +2,7 @@
  *
  * @name Hearts Game
  * @author Mohammad Rakibul Haider
- * @version 0.01
+ * @version 0.001
  * @since version 0.001
  */
 
